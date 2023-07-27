@@ -1,5 +1,5 @@
-Ref,Val,Package,Mid X,Mid Y,Rotation,Layer
-"A1","MX-LED","SW_MX_HS_1u",-92.460192,54.360192,180.000000,bottom
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"A1","MX-LED","SW_MX_HS_1u",-92.460192,54.360192,0,bottom
 "B1","MX-LED","SW_MX_HS_1u",-178.185192,35.310192,180.000000,bottom
 "Backspace1","MX-LED","SW_MX_HS_1u",-316.297692,92.460192,180.000000,bottom
 "C1","100nF","C_0603_1608Metric",-162.707692,14.215192,90.000000,bottom
